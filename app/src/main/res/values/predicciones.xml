@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="predicciones">
+        <item>A quarter has 119 grooves on its edge, a dime has one less groove</item>
+        <item>Mark Twain didnt graduate from elementary school</item>
+        <item>Slugs have 4 noses</item>
+        <item>The State of Florida is bigger than England</item>
+        <item>Ants strech when they wake up in the morning</item>
+        <item>More people use blue toothbrushes than red ones</item>
+        <item>If you want something done ask someone busy</item>
+    </string-array>
+</resources>
