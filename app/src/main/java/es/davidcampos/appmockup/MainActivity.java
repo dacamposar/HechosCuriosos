@@ -12,6 +12,7 @@ import android.widget.TextView;
 public class MainActivity extends Activity {
 
     private final static String TAG =  MainActivity.class.getSimpleName();
+    // comentarios para probar github
 
     private PrediccionAleatoria prediccionAleatoria;
     private ColorAleatorio colorAleatorio;
